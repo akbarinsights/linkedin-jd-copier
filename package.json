@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-jd-copier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Copy the selected LinkedIn job description using a local-only userscript or bookmarklet.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "build": "node tools/build.cjs",
+    "test": "node tools/regression.cjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "happy-dom": "20.14.6"
+  }
+}
