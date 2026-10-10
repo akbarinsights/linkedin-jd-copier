@@ -92,4 +92,6 @@ The generated files are committed so installation requires no build step. Change
 
 ## Licence
 
-No open-source licence has been selected for this release. Publishing the repository does not grant an additional licence to reuse or redistribute the code. `private: true` in package.json prevents accidental npm publishing; it does not describe the GitHub repository's visibility.
+[MIT License](LICENSE). Copyright (c) 2026 Shaik Akbar. Use, modify and redistribute the software, including commercially, provided the copyright and permission notice are retained. The software is provided without warranty.
+
+`private: true` in package.json prevents accidental npm publishing; the GitHub repository is public.
