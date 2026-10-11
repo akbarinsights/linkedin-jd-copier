@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add a prominent LinkedIn policy and account-risk warning before installation instructions. Applies to both delivery methods; runtime and published release archives are unchanged.
+
 ## 1.0.1 - 2026-10-10
 
 - Adopt the MIT License, copyright 2026 Shaik Akbar.

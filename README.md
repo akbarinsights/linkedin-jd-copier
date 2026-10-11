@@ -6,6 +6,18 @@ A small, local-only userscript and bookmarklet for desktop Firefox, Chrome and E
 
 No AI service, API key, tracking, runtime dependencies or uploads. Not affiliated with or endorsed by LinkedIn.
 
+## Important: LinkedIn policy and account risk
+
+> **Local-only does not mean LinkedIn-approved. Read this before installing either version.**
+
+LinkedIn's [Prohibited software and extensions policy](https://www.linkedin.com/help/lms/answer/a1341387) prohibits third-party scripts and tools that scrape or copy content from its services, modify their appearance, or automate activity. LinkedIn says using prohibited tools can lead to account restrictions or closure.
+
+This tool reads the selected, already-loaded job description when you click and adds a **Copy the JD** button to the page. Those behaviours appear to fall within the policy's broad wording. The published policy does not state an exception for a small, user-triggered, local-only copier. This concern applies to **both the userscript and the bookmarklet**.
+
+The tool makes no network requests, stores nothing, and does not automate applications, messages or bulk collection. These are privacy and behaviour limits, not evidence of permission from LinkedIn. We cannot guarantee that using it complies with LinkedIn's terms or that your account will be unaffected; we cannot predict enforcement.
+
+Review the current policy before deciding whether to use this tool. It is not affiliated with or endorsed by LinkedIn. The MIT License covers this project's code; it does not grant permission to access LinkedIn or copy or redistribute someone else's content.
+
 ## Install the persistent button
 
 1. Install **Tampermonkey** from your browser's official extension store.
